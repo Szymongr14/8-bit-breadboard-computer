@@ -5,11 +5,13 @@ Welcome to the repository for my implementation of **8-bit breadboard computer**
 
 [The Simple-As-Possible (SAP)](https://en.wikipedia.org/wiki/Simple-As-Possible_computer) computer is a minimalist design that aims to demonstrate the fundamental concepts of computer architecture in a straightforward manner. This project is my attempt to create a similar computer on a breadboard, which I believe is a practical way to understand and appreciate the complexity of computer systems.
 
-[![YouTube video of computer](images/)](https://www.youtube.com/watch?v=sGnG5iFdMsQ&t=2&ab_channel=ElektroPrzewodnik "Click to play")
+
+TODO wkleić logo yt na środek zdjęcia
+[![YouTube video of computer](images/clock_image.png)](https://www.youtube.com/watch?v=sGnG5iFdMsQ&t=2&ab_channel=ElektroPrzewodnik "Click to play")
 
 ## Computer modules
-- [Clock module]()
-- [Registers]()
+- [Clock](clock.md)
+- [Registers](registers.md)
 - [ALU]()
 - [RAM]()
 - 
