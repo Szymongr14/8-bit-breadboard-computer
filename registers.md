@@ -20,3 +20,6 @@ Second step was to build two general purpose registers and instruction register.
 ### Registers with the bus
 
 ![](images/all_registers.png)
+
+### Schematic of a register
+![](images/a-register.png)
